@@ -1,2 +1,2 @@
-# DSCI 522
-## Dockerfile Practice
+# Dockerfile Practice
+## DSCI 522 Individual Assignment
